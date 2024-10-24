@@ -5,7 +5,6 @@
 // @description  在 LeetCode 题目页面支持直接根据题号跳转到题目。Jump from one problem to another problem directly!
 // @author       ipdor
 // @match        https://leetcode.com/problems/*
-// @match        https://leetcode.cn/problems/*
 // @grant        none
 // @license      MIT
 // ==/UserScript==
